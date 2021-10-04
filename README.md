@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziga Miklosic
 - 👀 I’m interested in embedded firmware and hardware development.
-- 🌱 I’m currently learning about DSP.
+- 🌱 I’m currently working on library package: https://github.com/GeneralEmbeddedCLibraries 
 - 💞️ I’m looking to collaborate on any interesting embedded project.
 - 📫 How to reach me:
    - mail: ziga.miklosic@gmail.com
